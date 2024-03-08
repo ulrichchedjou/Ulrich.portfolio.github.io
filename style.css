@@ -232,6 +232,12 @@ body {
     box-shadow: 1px 1px 20px #012290f7,
               1px 1px 40px #0053b8f7
 }
+.home-imgHover img{
+    border-radius: 8px;
+    height: auto;
+    width: 100%;
+    border-style: hidden;
+}
 
 .services-list div i {
     font-size: 50px;
